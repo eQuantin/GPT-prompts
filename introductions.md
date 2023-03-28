@@ -1,4 +1,4 @@
-Please act as a { bakcend / frontend } developer proficient in { typescript / node / vue / ... }.
+Please act as a { backend / frontend } developer proficient in { typescript / node / vue / ... }.
 
  // List requirements for the product, be exhaustive
 
