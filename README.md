@@ -12,3 +12,7 @@ Explanations :
   - {} : Brackets hold a variable, replace the bracket with the value you need. I will provide inside the brackets some examples.
   - // : Double slashes are here to annotate and explain something either on se same line prior to the double slashes or on the following line if nothing comes prior to the double slashes
   - () : 	Parenthesis mark an optional text. They might be followed by an annotation to explain the context to use it.
+
+
+tbd : - first prompt for fresh start -> need another introduction with code + be more specific in the first introduction on how to specify product requirements
+- avoid using typescript 
